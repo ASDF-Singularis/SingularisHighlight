@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "0.1.0",
+	"FriendlyName": "SingularisHighlight",
+	"Description": "Singularis 生态高亮系统。基于 CustomDepth 自定义深度通道为指定图元提供高亮反馈，支持蓝图驱动启用/禁用与状态事件广播，无需网络复制。",
+	"Category": "Singularis",
+	"CreatedBy": "TrifingZW",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "SingularisHighlight",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
